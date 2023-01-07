@@ -37,7 +37,9 @@ body {
     font-weight: bold;
     text-align: right;
 }
-.prgraph{
+.paragraph{
+    font-size: 16px;
+    line-height: 1.5;
     text-align: right;
     padding: 10px;
 }
