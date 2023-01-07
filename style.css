@@ -134,3 +134,44 @@ body {
     border-radius: 5px;
     margin-left: 20px;
 }
+
+
+/* footer section */
+
+
+.footer-container{
+  padding: 50px;
+  background-color: black;
+  color: #fff;
+}
+.footer-container-main{
+    display: flex;
+    justify-content: space-evenly;
+}
+.parent-footer{
+    width: 500px;
+}
+.future{
+    font-size: 36px;
+}
+.sub-content{
+    font-weight: bold;
+    margin-left:20px;
+}
+.btn-subscribe{
+    padding: 15px 40px;
+    color: rgb(20, 61, 194);
+    font-weight: bold;
+    border: none;
+    border-radius: 5px;
+    margin-left: 20px;
+}
+.enter-secrch-box{
+    width: 200px ;
+    border: 1px solid #fff;
+    padding: 5px;
+   margin-left: 20px;
+    background-color: black;
+    height: 40px;
+    border-radius: 5px;
+}
