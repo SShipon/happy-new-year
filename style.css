@@ -59,3 +59,26 @@ body {
     color: green;
     padding: 10px;
 }
+
+/* skills section area */
+
+.skills_container{
+    display: flex;
+    justify-content: center;
+}
+.skills{
+    width: 300px;
+    margin: 5px;
+    text-align: center;
+    font-size: 20px;
+}
+
+
+.skills-text{
+    padding: 24px;
+   text-align: center;
+}
+.gray{
+    color: lightslategray;
+    font-size: 22px;
+}
