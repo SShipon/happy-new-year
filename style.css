@@ -186,11 +186,11 @@ body {
     border-radius: 5px;
     margin-left: 20px;
 }
-.enter-secrch-box{
-    width: 200px ;
+.enter-search-box{
+    width: 220px ;
     border: 1px solid #fff;
     padding: 5px;
-   margin-left: 20px;
+    margin-left: 20px;
     background-color: black;
     height: 40px;
     border-radius: 5px;
