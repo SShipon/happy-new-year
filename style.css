@@ -13,11 +13,9 @@ body {
 }
 .parent_container{
     display: flex;
-    grid-template-columns: repeat(2,1fr);
     justify-content: center;
     align-items: center;
     margin: 10px;
-
 }
 .element-container{
     margin: 10% auto;
