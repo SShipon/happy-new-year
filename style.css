@@ -39,7 +39,11 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    margin: 20px;
+}
+.element-content{
+    width: 500px;
+    margin: 30px;
+    padding: 20px;
 }
 .main-section-title{
     margin: 30px;
@@ -49,8 +53,8 @@ body {
     margin: 30px;
 }
 .element-content img{
-    width: 400px;
-    height: 500px;
+    width: 500px;
+    height: 680px;
 }
 .element-content ul li{
     list-style-type: none;
@@ -76,6 +80,8 @@ body {
 
 .skills-text{
     padding: 24px;
+    font-size: 36px;
+    font-weight: bolder;
    text-align: center;
 }
 .gray{
