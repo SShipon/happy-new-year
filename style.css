@@ -34,3 +34,28 @@ body {
     text-align: right;
     margin: 10px;
 }
+
+.main-parent-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px;
+}
+.main-section-title{
+    margin: 30px;
+    font-size: 48px;
+}
+.main-section-paragarph{
+    margin: 30px;
+}
+.element-content img{
+    width: 400px;
+    height: 500px;
+}
+.element-content ul li{
+    list-style-type: none;
+}
+.element-content ul li i{
+    color: green;
+    padding: 10px;
+}
