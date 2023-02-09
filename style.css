@@ -188,6 +188,7 @@ body {
 }
 .enter-search-box{
     width: 220px ;
+    color: #fff;
     border: 1px solid #fff;
     padding: 5px;
     margin-left: 20px;
